@@ -29,7 +29,7 @@ const informations = [
         icon: phone,
     },
     {
-        link: "HDHD13ha@gmail.com",
+        link: "mira13ha@gmail.com",
         icon: mail,
     },
     {
